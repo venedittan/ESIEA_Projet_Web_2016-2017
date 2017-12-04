@@ -53,7 +53,7 @@ Il est possible de commenter un post, cette fonctionnalité est disponible pour 
 
 - Le nom de l'utilisateur ayant posté le commentaire est affiché
 
-## Système de bull de message
+## Système de bulle de message
 
 Afin d'informer les utilisateurs une bulle de message affiche et informe les activités des utilisateurs
 - Bulle verte si l'action a fonctionné 
